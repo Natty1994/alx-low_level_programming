@@ -2,7 +2,7 @@
 /*
  * main - Entry point
  *
- *Description: prints a-z in reverse
+ *Description: print a-z in reverse
  *
  * Return: Always 0 (Success)
  */
