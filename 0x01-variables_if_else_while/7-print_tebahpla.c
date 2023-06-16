@@ -8,10 +8,7 @@ int main(void)
 {
 	char a;
 
-	a = 'z';
-
-
-	if (; a >= 'a'; a--)
+	if (a = 'z'; a >= 'a'; a--)
 	{
 		putchar(a);
 	}
